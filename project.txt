@@ -1,0 +1,4 @@
+File is in write mode
+Welcome to the document about india
+Appending  mode.
+document.
